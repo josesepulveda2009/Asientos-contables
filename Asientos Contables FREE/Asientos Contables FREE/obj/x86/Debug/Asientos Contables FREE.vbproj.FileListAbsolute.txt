@@ -1,0 +1,157 @@
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+C:\Users\josesepulveda\documents\visual studio 2010\Projects\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Politecnico\Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+D:\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+D:\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+D:\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Ejercicio de Visual Basic.Net\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SEPULVEDA\Downloads\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbprojResolveAssemblyReference.cache
+D:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbproj.GenerateResource.Cache
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbprojResolveAssemblyReference.cache
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+E:\Software\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbprojResolveAssemblyReference.cache
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPUC.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.exe
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.pdb
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\bin\Debug\Asientos Contables FREE.xml
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbprojResolveAssemblyReference.cache
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Frmbalance.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmCuenta.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmLogin.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmMenu.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPartidaDoble.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmPUC.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.FrmTransaccion.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos_Contables_FREE.Resources.resources
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.vbproj.GenerateResource.Cache
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
