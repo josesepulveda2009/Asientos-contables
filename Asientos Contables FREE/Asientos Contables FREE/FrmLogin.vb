@@ -26,7 +26,7 @@ Public Class FrmLogin
         conexion.Close()
 
         If res = 0 Then
-            MessageBox.Show("Datos incorrectos", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            MessageBox.Show("Usuario o contraseña invalidos", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
             txtUsuario.Clear()
             txtContraseña.Clear()
         Else

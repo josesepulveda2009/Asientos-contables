@@ -155,3 +155,6 @@ D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\D
 D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
 D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
 D:\programas\proyectos\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
+C:\Users\josesepulveda\Documents\GitHub\Asientos contables\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.exe
+C:\Users\josesepulveda\Documents\GitHub\Asientos contables\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.xml
+C:\Users\josesepulveda\Documents\GitHub\Asientos contables\Asientos Contables FREE\Asientos Contables FREE\obj\x86\Debug\Asientos Contables FREE.pdb
